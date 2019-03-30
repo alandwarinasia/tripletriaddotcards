@@ -1,3 +1,3 @@
-## Transformers.cards ##
+## TripleTriad.cards ##
 
-Transformers.cards is a website for displaying card information from Hasbro's Transformers TCG.
+TripleTriad.cards is a website for displaying card information from SquareEnix's Triple Triad card game.
